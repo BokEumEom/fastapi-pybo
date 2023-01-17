@@ -1,1 +1,1 @@
-# fastapi-pybo
+# fastapi-pybo project
